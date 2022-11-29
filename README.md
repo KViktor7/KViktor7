@@ -23,7 +23,14 @@ Hola amigo
 <br>
 <br>
 <br>
-KloweSa legnagyobb proGrammer @KloweSa
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <!--
 **KViktor7/KViktor7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
