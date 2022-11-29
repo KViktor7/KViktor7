@@ -13,7 +13,7 @@
 <br>
 <br>
 <br>
-$nbsp;Hola amigo
+<p align="center">Hola amigo</p>
 <br>
 <br>
 <br>
